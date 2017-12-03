@@ -5,5 +5,18 @@ body {
 }
 
 h2{
-	color: red;
+  color: red;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.no_clickable {
+  cursor: not-allowed;
+}
+.turno {
+  width: 300px;
+  margin: 0 auto;
+  margin-bottom: 20px;
 }
